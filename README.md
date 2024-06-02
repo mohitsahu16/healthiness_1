@@ -1,2 +1,2 @@
-# healthiness_1
+# healthiness1
 ai healthcare project(personal project)
